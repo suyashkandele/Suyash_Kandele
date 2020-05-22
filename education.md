@@ -5,9 +5,9 @@
 | 2020 | Awarded the 1st PhD degree given to a student of any six 3rd Generation IITs. |
 |      | Defended PhD Thesis. |
 | 2019 | 10/10 SPI in both semesters and the summer term. |
-|      | Presented research paper _"Key Assignment Scheme with Authenticated Encryption"_ in _Fast Software Encryption (FSE) Conference 2019_ in Paris, France. |
+|      | Presented research paper _"Key Assignment Scheme with Authenticated Encryption"_ in _Fast Software Encryption (FSE) Conference 2019_, March 25-28, in Paris, France. |
 | 2018 | 10/10 SPI in both semesters and the summer term. |
-|      | Presented research paper _"Message-Locked Encryption with FIle Update"_ in _Applied Cryptography and Network Security (ACNS) Conference 2018_ in Leuven, Belgium. |
+|      | Presented research paper _"Message-Locked Encryption with FIle Update"_ in _Applied Cryptography and Network Security (ACNS) Conference 2018_, July 2-4, in Leuven, Belgium. |
 | 2017 | Admitted to _Indian Institute of Technology (IIT) Bhilai_ to continue PhD. |
 | 2015 | Awarded the prestigious _Start-Early Phd Fellowship_ by _Indian Institute of Technology (IIT) Gandhinagar_. |
 |      | **Silver Medallist** in _Bachelor of Technology_ in _Computer Science and Engineering_ from _National Institute of Technology (NIT) Raipur_ with 83.34% and 9.23 CPI (Honours Division). |
