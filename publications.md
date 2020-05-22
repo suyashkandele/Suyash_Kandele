@@ -9,5 +9,3 @@
 4. Suyash Kandele and Veena Anand. _A Novel Square-Expanded-Matrix-Rotation (SEMR) Cryptography Method_. _International Journal of Engineering Research and Technology_, vol. 4, no. 4, pp. 1366-1378, 2015. [http://dx.doi.org/10.17577/IJERTV4IS041492](http://dx.doi.org/10.17577/IJERTV4IS041492)
 
 5. Suyash Kandele and Veena Anand. _A Novel Cyclic-Lower-Upper-Rectangular (CLUR) Cryptography Method_. _International Journal of Engineering Research and Technology_, vol. 3, no. 11, pp. 329-335, 2014. [https://www.ijert.org/a-novel-cyclic-lower-upper-rectangular-clur-cryptography-method](https://www.ijert.org/a-novel-cyclic-lower-upper-rectangular-clur-cryptography-method)
-
-**Bold** and _Italic_ and `Code` text
