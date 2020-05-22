@@ -18,7 +18,7 @@ You can find my CV [here](CV-2020-05-22.pdf) (last updated on 22nd May 2020).
 
 ### List of Publications
 
-My entire list of publications can be found [here](publication).
+My entire list of publications can be found [here](publications).
 
 ### Educational Background
 
