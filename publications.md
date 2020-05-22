@@ -1,6 +1,6 @@
 ## My Thesis
 
-PhD Thesis: [Cryptographic Primitives Based on Reverse Decryption](/Cryptographic Primtives Based on Reverse Decryption - Suyash Kandele, IIT Bhilai v2.pdf) (_04th May 2020_)
+PhD Thesis: [**Cryptographic Primitives Based on Reverse Decryption**](/Cryptographic Primtives Based on Reverse Decryption - Suyash Kandele, IIT Bhilai v2.pdf) (_04th May 2020_)
 
 ## My Publications
 
