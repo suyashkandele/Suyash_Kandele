@@ -18,20 +18,32 @@ You can find my CV [here](CV-2020-05-22.pdf) (last updated on 22nd May 2020).
 
 ### List of Publications
 
-[Link](publication)
+My entire list of publications can be found [here](publication).
+
+### Educational Background
+
+The timeline of my educational background is [here](education).
+
+### My hobbies
+
+[here](hobbies).
+
+### Contact Me
+
+Email: suyashk@iitbhilai.ac.in, sk.11.1992@gmail.com
+
+LinkedIn: linkedin.com/in/suyashkandele
+
+Address: "NEST", Block No. 34, House No. 6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
+
+Phone No.: (+91)-97546-58975, (+91)-96870-34657
+
+Website: https://suyashkandele.github.io/website/
+
 
 
 I have also attained All India rank 22 (State rank 2) in the 10th National Cyber Olympiad (2011), conducted by Science Olympiad Foundation (SOF). I have secured more than 99th percentile in GATE 2015, and was awarded the prestigious Start-Early PhD Fellowship by Indian Institute of Technology Gandhinagar in 2015. At leisure, I enjoy photography and gardening, as well as cooking innovative Indian dishes for friends and family.
  
- 
-You can use the [editor on GitHub](https://github.com/suyashkandele/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
