@@ -37,35 +37,3 @@ The timeline of my educational background is [here](education).
 ![Phone No.](/Icon-Phone20.png) (+91)-97546-58975, (+91)-96870-34657
 
 ![Website](/Icon-Web20.png) [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
-
-
-
-I have also attained All India rank 22 (State rank 2) in the 10th National Cyber Olympiad (2011), conducted by Science Olympiad Foundation (SOF). I have secured more than 99th percentile in GATE 2015, and was awarded the prestigious Start-Early PhD Fellowship by Indian Institute of Technology Gandhinagar in 2015. At leisure, I enjoy photography and gardening, as well as cooking innovative Indian dishes for friends and family.
- 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suyashkandele/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
