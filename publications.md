@@ -1,6 +1,6 @@
-[![Back](/Icon-BackButton30.png) Back to Homepage](index)
+[![Back](/Icon-BackButton30.png) Homepage](index)
 
-# My Publications
+## My Publications
 
 
 
