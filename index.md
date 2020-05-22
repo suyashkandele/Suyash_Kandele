@@ -28,15 +28,15 @@ The timeline of my educational background is [here](education).
 
 ### Contact Me
 
-Email: [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](sk.11.1992@gmail.com)
+Email: [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
 
 LinkedIn: linkedin.com/in/suyashkandele
 
-Address: "NEST", Block No. 34, House No. 6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
+Address: "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
 
 Phone No.: (+91)-97546-58975, (+91)-96870-34657
 
-Website: https://suyashkandele.github.io/website/
+Website: [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
 
 
