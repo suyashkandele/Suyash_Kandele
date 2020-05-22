@@ -32,11 +32,11 @@ The timeline of my educational background is [here](education).
 
 ![LinkedIn](/Icon-LinkedIn20.png) [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
-Address: "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
+![Address](/Icon-Home20.png) "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
 
-Phone No.: (+91)-97546-58975, (+91)-96870-34657
+![Phone No.](/Icon-Phone20.png) (+91)-97546-58975, (+91)-96870-34657
 
-Website: [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
+![Website](/Icon-Web20.png) [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
 
 
