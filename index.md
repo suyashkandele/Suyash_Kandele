@@ -1,6 +1,4 @@
-# Dr. Suyash Kandele
-
-## Hi! Welcome to my Website.
+Hi! Welcome to my Website.
 
 ![Image](/Suyash003.jpg)
 
