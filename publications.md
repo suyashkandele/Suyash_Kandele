@@ -1,6 +1,6 @@
 ## My Thesis
 
--Title: Cryptographic Primitives Based on Reverse Decryption
+-Title: Cryptographic Primitives Based on Reverse Decryption\newline
 
 -Author: Suyash Kandele
 
