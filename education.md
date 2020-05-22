@@ -26,7 +26,7 @@
 | 2008 | Achieved All India rank _242_ in _7th National Cyber Olympiad_ conducted by _Science Olympiad Foundation (SOF)_. |
 |      | Achieved All India rank _326_ in _10th National Science Olympiad_ conducted by _Science Olympiad Foundation (SOF)_. |
 | 2007 | **Qualified _National Talent Search Examination (NTSE), 2007_ and awarded Scholarship by _National Council of Educational Research and Training (NCERT)_.** |
-| 1999 | Pomoted from Kindergarten to Class-I. |
+| 1999 | Promoted from Kindergarten to Class-I. |
 | 1992 | I was Born! |
 
 [![Back](/Icon-BackButton30.png) Homepage](index)
