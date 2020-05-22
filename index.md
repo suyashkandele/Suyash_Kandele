@@ -28,7 +28,7 @@ The timeline of my educational background is [here](education).
 
 ### Contact Me
 
-Email: suyashk@iitbhilai.ac.in, sk.11.1992@gmail.com
+Email: [suyashk@iitbhilai.ac.in](suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](sk.11.1992@gmail.com)
 
 LinkedIn: linkedin.com/in/suyashkandele
 
