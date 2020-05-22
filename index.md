@@ -18,6 +18,7 @@ You can find my CV [here](CV-2020-05-22.pdf) (last updated on 22nd May 2020).
 
 ### List of Publications
 
+[Link](publication)
 
 
 I have also attained All India rank 22 (State rank 2) in the 10th National Cyber Olympiad (2011), conducted by Science Olympiad Foundation (SOF). I have secured more than 99th percentile in GATE 2015, and was awarded the prestigious Start-Early PhD Fellowship by Indian Institute of Technology Gandhinagar in 2015. At leisure, I enjoy photography and gardening, as well as cooking innovative Indian dishes for friends and family.
