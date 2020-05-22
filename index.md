@@ -1,6 +1,6 @@
 Hi! Welcome to my Website.
 
-![Image](/Suyash003.jpg)
+![Image](/Photo-Suyash300.jpg)
 
 I am an Independent Researcher working in the field of Cryptography and Network Security. I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
 
@@ -28,9 +28,9 @@ The timeline of my educational background is [here](education).
 
 ### Contact Me
 
-![Email](/Mail100.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
+![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
 
-![LinkedIn](/LinkedIn20.png) [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
+![LinkedIn](/Icon-LinkedIn20.png) [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
 Address: "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
 
