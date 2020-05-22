@@ -2,6 +2,8 @@
 
 ## Hi! Welcome to my Website.
 
+<p><img src="/Suyash.jpg" width=250 height=250 /></p>
+
 ![Image](/Suyash003.jpg)
 
 I am an Independent Researcher working in the field of Cryptography and Network Security. I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
