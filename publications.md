@@ -1,8 +1,8 @@
 ## My Publications
 
-1. Suyash Kandele and Souradyuti Paul. _Message-locked encryption with file update_. In Bart Preneel and Frederik Vercauteren, editors, _Applied Cryptography and Network Security - 16th International Conference, ACNS 2018, Leuven, Belgium, July 2-4, 2018, Proceedings_, volume 10892 of _Lecture Notes in Computer Science_, pages 678–695. Springer, 2018. \[The 43-page full version is on _IACR e-print archive_ at [https://eprint.iacr.org/2018/422.pdf](https://eprint.iacr.org/2018/422.pdf)\]
+1. Suyash Kandele and Souradyuti Paul. _Message-locked encryption with file update_. In Bart Preneel and Frederik Vercauteren, editors, _Applied Cryptography and Network Security - 16th International Conference, ACNS 2018, Leuven, Belgium, July 2-4, 2018, Proceedings_, volume 10892 of _Lecture Notes in Computer Science_, pages 678–695. Springer, 2018. \[The 43-page full version is on _IACR e-print archive_ at [https://eprint.iacr.org/2018/422.pdf](https://eprint.iacr.org/2018/422.pdf)\] [![Video](/Icon-Video20.png)](https://youtu.be/E9MFgo1SOrU?t=3192)
 
-2. Suyash Kandele and Souradyuti Paul. _Key assignment scheme with authenticated encryption_. _IACR Transactions on Symmetric Cryptology_, 2018(4):150–196, 2018. (This work was presented at _Fast Software Encryption (FSE) 2019_ held in Paris.) \[The 47-page full version is also available on _IACR e-print archive_ at [https://eprint.iacr.org/2018/1233.pdf](https://eprint.iacr.org/2018/1233.pdf)\]
+2. Suyash Kandele and Souradyuti Paul. _Key assignment scheme with authenticated encryption_. _IACR Transactions on Symmetric Cryptology_, 2018(4):150–196, 2018. (This work was presented at _Fast Software Encryption (FSE) 2019_ held in Paris.) \[The 47-page full version is also available on _IACR e-print archive_ at [https://eprint.iacr.org/2018/1233.pdf](https://eprint.iacr.org/2018/1233.pdf)\] [![Video](/Icon-Video20.png)](https://youtu.be/iY0km3OmcOY)
 
 3. _\[Preprint\]_ Suyash Kandele and Souradyuti Paul. _Efficient AONTs and AONEs Based on Permutations_. The 39-page manuscript has been submitted to _Design, Codes and Cryptography_.
 
