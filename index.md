@@ -2,7 +2,7 @@
 
 ## Hi! Welcome to my Website.
 
-<p><img src="/Suyash.jpg" width=250 height=250 /></p>
+<p><img src="/Suyash.jpg" width=250 height=250 align=right /></p>
 
 ![Image](/Suyash003.jpg)
 
