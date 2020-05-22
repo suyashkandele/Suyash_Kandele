@@ -4,6 +4,12 @@
 |--------------------------|--------------------------|
 |2020 | PhD |
 | 2015 | BTECH |
+| 2011 | Passed _All India Senior School Certificate Examination (AISSE) 2011_ (Equivalent to Class-XII) with 85.60% (First Division). |
+|      | Achieved All India rank _22_ (State rank _2_) in _10th National Cyber Olympiad_ conducted by _Science Olympiad Foundation (SOF)_. |
+| 2009 | Passed _All India Secondary School Examination (AISSE) 2009_ (Equivalent to Class-X) with 92.00% (First Division). |
+| 2007 | Qualified _National Talent Search Examination (NTSE), 2007_ and awarded Scholarship by _National Council of Educational Research and Training (NCERT)_. |
+| 1999 | Pomoted from Kindergarten to Class-I. |
+| 1992 | I was Born! |
 
 
 ### Thesis
