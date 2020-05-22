@@ -1,14 +1,6 @@
 ## My Thesis
 
--Title: Cryptographic Primitives Based on Reverse Decryption\\
-
--Author: Suyash Kandele
-
--Submitted on: 22nd January 2020
-
--Last Updated on: 04th May 2020
-
--[PDF](/Cryptographic Primtives Based on Reverse Decryption - Suyash Kandele, IIT Bhilai v2.pdf)
+PhD Thesis: [Cryptographic Primitives Based on Reverse Decryption](/Cryptographic Primtives Based on Reverse Decryption - Suyash Kandele, IIT Bhilai v2.pdf) (_04th May 2020_)
 
 ## My Publications
 
