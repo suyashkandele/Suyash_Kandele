@@ -22,9 +22,9 @@ My entire list of publications can be found [here](publications).
 
 The timeline of my educational background is [here](education).
 
-### My hobbies
+<!--- ### My hobbies --->
 
-[here](hobbies).
+<!--- [here](hobbies). --->
 
 ### Contact Me
 
