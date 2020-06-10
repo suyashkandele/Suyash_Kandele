@@ -18,7 +18,7 @@ H~2~O
 
 {: .alert .alert-info .text-justify}
 
-<i class="fas fa-puzzle-piece"></i>
+<i class="fa fa-puzzle-piece"></i>
 
 <i class="fa fa-motorcycle"></i>
 
