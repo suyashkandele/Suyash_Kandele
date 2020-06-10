@@ -9,13 +9,6 @@ H~2~O
 ### <i class="fas fa-puzzle-piece"></i> Puzzle Icon
 {: #puzzle}
 
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
-{: #tanuki-purple}
-
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Orange GitLab Tanuki
-{: #tanuki-orange}
-
-
 {: .alert .alert-info .text-justify}
 
 <i class="fa fa-puzzle-piece"></i>
