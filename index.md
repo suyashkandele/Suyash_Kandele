@@ -44,7 +44,7 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-linkedin-square"></i> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
-<i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=_6o9bLgAAAAJ&hl=en)
+<i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
 
 <!--- ![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) --->
 
