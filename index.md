@@ -28,12 +28,22 @@ The timeline of my educational background is [here](education).
 
 ### Contact Me
 
-![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
+<i class="fa fa-home"></i> "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India. --->
 
-![LinkedIn](/Icon-LinkedIn20.png) [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
+<i class="fa fa-globe"></i> [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
-![Address](/Icon-Home20.png) "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
+<i class="fa fa-linkedin-square"></i> [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
-![Phone No.](/Icon-Phone20.png) (+91)-97546-58975, (+91)-96870-34657
+<i class="fa fa-envelope-square"></i> [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
 
-![Website](/Icon-Web20.png) [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
+<i class="fa fa-mobile"></i> (+91)-97546-58975, (+91)-96870-34657
+
+<!--- ![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) --->
+
+<!--- ![LinkedIn](/Icon-LinkedIn20.png) [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele) --->
+
+<!--- ![Address](/Icon-Home20.png) "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India. --->
+
+<!--- ![Phone No.](/Icon-Phone20.png) (+91)-97546-58975, (+91)-96870-34657 --->
+
+<!--- ![Website](/Icon-Web20.png) [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) --->
