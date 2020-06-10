@@ -3,6 +3,10 @@
 <!--- load the theme js script after markdown-editor.min.js --->
 <script src="/path/to/js/themes/fa5/theme.js"></script>
 
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+<i class="ai ai-google-scholar-square ai-3x"></i>
+
+
 H~2~O
 19^th^
 
