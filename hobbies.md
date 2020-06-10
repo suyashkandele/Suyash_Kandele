@@ -12,7 +12,7 @@ H~2~O
 
 @fa[thumbs-up](Sounds good to me!)
 
-### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
+### <i class="fas fa-puzzle-piece"></i> Puzzle Icon
 {: #puzzle}
 
 ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
