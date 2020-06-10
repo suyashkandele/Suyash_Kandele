@@ -2,7 +2,7 @@
 
 ![Image](/Photo-Suyash300.jpg)
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<!--- <img src="https://render.githubusercontent.com/render/math?math=\faGlobe"> --->
 
 I am an Independent Researcher working in the field of Cryptography and Network Security. I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
 
