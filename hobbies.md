@@ -26,7 +26,7 @@ H~2~O
 
 <i class="fa fa-motorcycle"></i>
 
-<i class="fa fa-home"></i>
+<i class="fa fa-home"></i> My address is 
 
 <i class="fa fa-globe"></i>
 
