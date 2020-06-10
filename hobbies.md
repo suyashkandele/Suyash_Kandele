@@ -6,6 +6,20 @@
 H~2~O
 19^th^
 
+@fa[thumbs-up](Sounds good to me!)
+
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
+{: #puzzle}
+
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
+{: #tanuki-purple}
+
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Orange GitLab Tanuki
+{: #tanuki-orange}
+
+
+{: .alert .alert-info .text-justify}
+
 # Dr. Suyash Kandele
 
 ## Hi! Welcome to my Website.
