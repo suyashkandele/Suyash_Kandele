@@ -30,7 +30,7 @@ H~2~O
 
 <i class="fa fa-globe"></i>
 
-<i class="fa fa-linkedinsquare"></i>
+<i class="fa fa-linkedin-square"></i>
 
 <i class="fa fa-envelopesquare"></i>
 
