@@ -6,9 +6,6 @@
 H~2~O
 19^th^
 
-### <i class="fas fa-puzzle-piece"></i> Puzzle Icon
-{: #puzzle}
-
 {: .alert .alert-info .text-justify}
 
 <i class="fa fa-puzzle-piece"></i>
