@@ -30,9 +30,11 @@ H~2~O
 
 <i class="fa fa-globe"></i>
 
-<i class="emailsymbol"></i>
-
 <i class="fa fa-linkedinsquare"></i>
+
+<i class="fa fa-envelopesquare"></i>
+
+
 
 <!--- \faHome \faGlobe \emailsymbol \mobilesymbol \faLinkedinSquare --->
 
