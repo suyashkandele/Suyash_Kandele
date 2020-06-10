@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 <!--- <script src="/path/to/folder/css/academicons.min.css"/> --->
-<i class="ai ai-google-scholar-square ai-3x"></i>
+<i class="ai ai-google-scholar-square"></i>
 
 
 H~2~O
