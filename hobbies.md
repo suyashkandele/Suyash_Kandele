@@ -32,7 +32,7 @@ H~2~O
 
 <i class="fa fa-emailsymbol"></i>
 
-<i class="fa fa-linkedinSquare"></i>
+<i class="fa fa-linkedinsquare"></i>
 
 <!--- \faHome \faGlobe \emailsymbol \mobilesymbol \faLinkedinSquare --->
 
