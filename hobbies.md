@@ -1,7 +1,3 @@
-![Image](https://github.com/encharm/Font-Awesome-SVG-PNG/tree/master/black/svg/globe.svg)
-
-![Image](/address-book.svg)
-
 <!--- load your font awesome icons for Font Awesome 5 --->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--- load the theme js script after markdown-editor.min.js --->
@@ -9,8 +5,6 @@
 
 H~2~O
 19^th^
-
-@fa[thumbs-up](Sounds good to me!)
 
 ### <i class="fas fa-puzzle-piece"></i> Puzzle Icon
 {: #puzzle}
@@ -23,6 +17,8 @@ H~2~O
 
 
 {: .alert .alert-info .text-justify}
+
+<i class="fas fa-puzzle-piece"></i>
 
 <i class="fa fa-motorcycle"></i>
 
