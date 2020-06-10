@@ -28,6 +28,9 @@ H~2~O
 
 <i class="fa fa-motorcycle"></i>
 
+<i class="fa fa-globe"></i>
+
+
 # Dr. Suyash Kandele
 
 ## Hi! Welcome to my Website.
