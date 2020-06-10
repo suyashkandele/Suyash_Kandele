@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--- load the theme js script after markdown-editor.min.js --->
 <!--- <script src="/path/to/js/themes/fa5/theme.js"></script> --->
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 ## Welcome
 
@@ -43,7 +44,7 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-linkedin-square"></i> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
-
+<i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=_6o9bLgAAAAJ&hl=en)
 
 <!--- ![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) --->
 
