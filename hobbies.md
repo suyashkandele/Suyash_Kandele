@@ -8,24 +8,9 @@ H~2~O
 
 {: .alert .alert-info .text-justify}
 
-<i class="fa fa-puzzle-piece"></i>
+<i class="fa fa-puzzle-piece"></i> <i class="fa fa-motorcycle"></i> <i class="fa fa-home"></i> <i class="fa fa-globe"></i> <i class="fa fa-linkedin-square"></i> <i class="fa fa-envelope-square"></i> <i class="fa fa-mobile"></i> <i class="fa fa-arrow-circle-left"></i>
 
-<i class="fa fa-motorcycle"></i>
-
-<i class="fa fa-home"></i> My address is 
-
-<i class="fa fa-globe"></i>
-
-<i class="fa fa-linkedin-square"></i>
-
-<i class="fa fa-envelope-square"></i>
-
-<i class="fa fa-mobile"></i> Phone
-
-<i class="fa fa-arrow-circle-left"></i> 
-
-<i class="ai google-scholar"></i> 
-
+<i class="ai google-scholar"></i>
 
 <!--- \faHome \faGlobe \emailsymbol \mobilesymbol \faLinkedinSquare --->
 
