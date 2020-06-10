@@ -6,13 +6,6 @@
 H~2~O
 19^th^
 
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-
-# `r fa("r-project", fill = "steelblue")` H1 Heading
-
-
 # Dr. Suyash Kandele
 
 ## Hi! Welcome to my Website.
