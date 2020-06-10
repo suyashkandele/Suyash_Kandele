@@ -10,8 +10,6 @@
 H~2~O
 19^th^
 
-
-
 @fa[thumbs-up](Sounds good to me!)
 
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
@@ -28,7 +26,15 @@ H~2~O
 
 <i class="fa fa-motorcycle"></i>
 
+<i class="fa fa-home"></i>
+
 <i class="fa fa-globe"></i>
+
+<i class="fa fa-emailsymbol"></i>
+
+<i class="fa fa-linkedinSquare"></i>
+
+<!--- \faHome \faGlobe \emailsymbol \mobilesymbol \faLinkedinSquare --->
 
 
 # Dr. Suyash Kandele
