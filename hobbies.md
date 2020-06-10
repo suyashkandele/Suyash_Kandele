@@ -34,7 +34,7 @@ H~2~O
 
 <i class="fa fa-envelopesquare"></i>
 
-
+<i class="fa fa-mobilephone"></i>
 
 <!--- \faHome \faGlobe \emailsymbol \mobilesymbol \faLinkedinSquare --->
 
