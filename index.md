@@ -41,7 +41,7 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-mobile"></i> (+91)-97546-58975, (+91)-96870-34657
 
-<i class="fa fa-linkedin-square"></i> [https://linkedin.com/in/suyashkandele](linkedin.com/in/suyashkandele)
+<i class="fa fa-linkedin-square"></i> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
 
 
