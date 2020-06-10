@@ -1,3 +1,8 @@
+<!--- load your font awesome icons for Font Awesome 5 --->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--- load the theme js script after markdown-editor.min.js --->
+<script src="/path/to/js/themes/fa5/theme.js"></script>
+
 ## My Publications
 
 ### Thesis
@@ -16,4 +21,4 @@
 
 1. Suyash Kandele and Veena Anand. _A Novel Cyclic-Lower-Upper-Rectangular (CLUR) Cryptography Method_. _International Journal of Engineering Research and Technology_, vol. 3, no. 11, pp. 329-335, 2014. [https://www.ijert.org/a-novel-cyclic-lower-upper-rectangular-clur-cryptography-method](https://www.ijert.org/a-novel-cyclic-lower-upper-rectangular-clur-cryptography-method)
 
-[![Back](/Icon-BackButton30.png) Homepage](index)
+[<i class="fa fa-arrow-circle-left"></i> Homepage](index)
