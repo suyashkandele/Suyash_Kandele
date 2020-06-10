@@ -36,6 +36,8 @@ H~2~O
 
 <i class="fa fa-mobile"></i> Phone
 
+<i class="fa fa-arrow-circle-left"></i> 
+
 <!--- \faHome \faGlobe \emailsymbol \mobilesymbol \faLinkedinSquare --->
 
 
