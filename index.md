@@ -33,7 +33,7 @@ The timeline of my educational background is [here](education).
 
 ### Contact Me
 
-<i class="fa fa-home"></i> "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India. --->
+<i class="fa fa-home"></i> "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
 
 <i class="fa fa-globe"></i> [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
