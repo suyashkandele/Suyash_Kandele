@@ -24,6 +24,9 @@ H~2~O
 
 <i class="fa fa-arrow-circle-left"></i> 
 
+<i class="ai google-scholar"></i> 
+
+
 <!--- \faHome \faGlobe \emailsymbol \mobilesymbol \faLinkedinSquare --->
 
 
