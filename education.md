@@ -7,7 +7,8 @@
 
 | Year | Events |
 |--------------------------|--------------------------|
-| 2020 | **Awarded the 1st PhD degree given to a student of any six 3rd Generation IITs.** |
+| 2020 | **Joined _International Institute of Techhnology (IIIT) Hyderabad_ as _Post-Doctoral Researcher_.** |
+|      | **Awarded the 1st PhD degree given to a student of any six 3rd Generation IITs.** |
 |      | Defended PhD Thesis. |
 | 2019 | **10/10 SPI in both semesters and the Summer term 2019.** |
 |      | Presented research paper _"Key Assignment Scheme with Authenticated Encryption"_ in _Fast Software Encryption (FSE) Conference 2019_, March 25-28, in Paris, France. |
