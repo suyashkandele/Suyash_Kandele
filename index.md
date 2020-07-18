@@ -46,7 +46,7 @@ The timeline of my educational background is [here](education).
 
 <i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
 
-<img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="40" height="43" alt="The Mathematics Genealogy Project" style="border: 0" /> [https://www.mathgenealogy.org/id.php?id=262537](https://www.mathgenealogy.org/id.php?id=262537)
+<img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> [https://www.mathgenealogy.org/id.php?id=262537](https://www.mathgenealogy.org/id.php?id=262537)
 
 <!--- ![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) --->
 
