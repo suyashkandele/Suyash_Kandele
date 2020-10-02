@@ -20,7 +20,9 @@ My research interests are in various areas related to computer and information s
 
 1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ and _Haribhoomi_ – in Chhattisgarh state.
 
-<!--- 1. First PhD scholar of Dr. Souradyuti Paul. --->
+1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_.
+
+1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_.
 
 1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_.
 
