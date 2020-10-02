@@ -25,7 +25,7 @@ My research interests are in various areas related to computer and information s
 
 <!--- \faFilePdfO --->
 
-1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_. [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=262537)
+1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_. [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=107106)
 
 1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_.
 
