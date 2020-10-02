@@ -8,13 +8,31 @@
 
 ![Image](/Photo-Suyash300.jpg)
 
-I am a Post-Doctoral Researcher at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/). I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
+I am a Research Engineer at [_Redpine Signals, Hyderabad_](https://www.redpinesignals.com/). Prior to this, I was a Post-Doctoral Researcher at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/). I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
 
 I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science and Engineering_, awarded by [_National Institute of Technology (NIT) Raipur_](http://www.nitrr.ac.in/) (2015), and a receipient of the prestigious _NTSE (National Talent Search Examination) scholarship, 2007_, awarded by [_National Council of Educational Research and Training (NCERT)_](http://ncert.nic.in/).
 
 ### Research Interests
 
-My research interests are in various areas related to computer and information security, such as cryptographic primitives and protocols, network security, cloud security, IoT, Blockchains, etc. 
+My research interests are in various areas related to computer and information security, such as Quantum Security, Blockchain, Cryptographic Primitives and Protocols, Network Security, Cloud Security, IoT, etc.
+
+### Awards and Honours
+
+1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ and _Haribhoomi_ – in Chhattisgarh state.
+
+<!--- 1. First PhD scholar of Dr. Souradyuti Paul. --->
+
+1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_.
+
+1. Awarded the prestigious _Start-Early PhD fellowship_ by _IIT Gandhinagar_.
+
+1. _Silver Medallist_ in BTech from _NIT Raipur_.
+
+1. Achieved 99.16th percentile in _GATE (Graduate Aptitude Test in Engineering) 2015_, organized by _Ministry of Human Resources Development (MHRD), Government of India_.
+
+1. All India rank 22 (State rank 2) in _10th National Cyber Olympiad_ conducted by _Science Olympiad Foundation (SOF)_.
+
+1. Awarded the scholarship under _National Talent Search Examination, 2007_ by _National Council of Educational Research and Training (NCERT)_.
 
 ### Curriculum Vitae
 
