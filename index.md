@@ -38,7 +38,7 @@ My research interests are in various areas related to computer and information s
 
 ### Curriculum Vitae
 
-You can find my CV [here](CV-2021-06-02.pdf) (last updated on 20th August 2020).
+You can find my CV [here](CV-2021-06-02.pdf) (last updated on 2nd June 2021).
 
 ### List of Publications
 
