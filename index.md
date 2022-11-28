@@ -8,7 +8,10 @@
 
 ![Image](/Photo-Suyash300.jpg)
 
-I am a _Research Engineer_ at [_Redpine Signals, Hyderabad_](https://www.redpinesignals.com/). Prior to this, I was a _Post-Doctoral Researcher_ at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/). I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
+Currently, I am a _Cyber Security Specialist_ at [_Bosch Global Software Technology (BGSW), Bangalore_](https://www.bosch-softwaretechnologies.com/).
+Prior to this, I was a _Research Engineer_ at [_Ceremorphic Technologies Pvt. Ltd., Hyderabad_](https://ceremorphic.com/).
+
+Before this, I was a _Post-Doctoral Researcher_ at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/). I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
 
 I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science and Engineering_, awarded by [_National Institute of Technology (NIT) Raipur_](http://www.nitrr.ac.in/) (2015), and a receipient of the prestigious _NTSE (National Talent Search Examination) scholarship, 2007_, awarded by [_National Council of Educational Research and Training (NCERT)_](http://ncert.nic.in/).
 
