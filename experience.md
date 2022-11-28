@@ -3,39 +3,54 @@
 <!--- load the theme js script after markdown-editor.min.js --->
 <script src="/path/to/js/themes/fa5/theme.js"></script>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-| Time         | Length        | Speed              | Mass         |
-| ------------ | ------------- | ------------------ | ------------ |
-| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
-| Second       | Centimetre    | Foot per second    | Gram         |
-| Minute       | Inch          | Miles per hour     | Ounce        |
 ## My Experience
 
-1. **_Bosch Global Software Technology (BGSW), Bangalore_**
-  - 
-3. 
-4. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ ([Raipur](Raipur-Patrika-13-May-2020.jpg), [Bhilai-Durg](Bhilai-Durg-Patrika-13-May-2020.jpg)) and [_Haribhoomi_](Bhilai-Haribhoomi-12-May-2020.png) – in Chhattisgarh state.
+1. **Specialist**
+   - **Department:** MS/ECE
+   - **Company:** Bosch Global Software Technology (BGSW), Bangalore
+   - **Duration:** 28 February 2022 to Present
+   - **Projects:**
+      - **Azure IoT Device SDK Security Assessment**
+         - **Client:** Microsoft.
+         - **Languages:** C and Embedded C.
+         - **Role:** Tester.
+         - **Outcomes:**
+            - Found 92 vulnerabilities and observations out of a total of 93 vulnerabilities and observations reported.
+      - **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
+         - **Client:** Ceat Tyres.
+         - **Role:** SPOC for the project.
+         - Managing:
+            - Mobile Application Testing.
+            - Web Application Testing.
+            - Cloud Security Assessment.
+            - Device Security Assessment.
+      - **Local Data Signing PKS Service**
+         - **Client:** ESCRYPT.
+         - **Languages:** C and SQL.
+         - **Role:** Coordinator & reviewer for the PKS Development.
+      - **Keyless Car Project Code Review**
+         - **Client:** General Motors.
+         - **Languages:** C, Objective C, Swift.
+         - **Role:** Tester.
+         - **Outcomes:**
+            - Found 10 vulnerabilities and observations out of a total of 16 vulnerabilities and observations reported in 29 files out of 311 files.
 
-1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_. [<i class="fa fa-globe"></i>](https://www.iitbhilai.ac.in/) [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf)
+1. **Research Engineer**
+   - **Department:** Algorithms and Systems Engineering
+   - **Company:** Ceremorphic Technology Pvt. Ltd., Hyderabad
+   - **Duration:** 15 September 2020 to 11 February 2022 (1 year 5 months)
+   - **Outcome:**
+      - 07 Patent Applications Filed.
+         - First Inventor in 05 Patents.
+         - Second Inventor in 02 Patents.
+      - Proposed 10 Research Ideas.
 
-1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_. [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=107106)
-
-1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_.
-
-1. Awarded the prestigious _Start-Early PhD fellowship_ by _IIT Gandhinagar_.
-
-1. _Silver Medallist_ in BTech from _NIT Raipur_.
-
-1. Achieved 99.16
-
-
-
-
+1. **Postdoctoral Researcher**
+   - **Field:** Blockchains
+   - **Mentor:** Prof. Kamalakar Karlapalem
+   - **Institute:** International Institute of Information Technology (IIIT) Hyderabad
+   - **Duration:** 20 June 2020 to 14 September 2020 (3 months)
+   - **Outcome:**
+      - 01 Patent Application Filed.
 
 [<i class="fa fa-arrow-circle-left"></i> Homepage](index)
