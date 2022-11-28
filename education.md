@@ -7,8 +7,7 @@
 
 | Year | Events |
 |--------------------------|--------------------------|
-| 2020 | **Joined _Redpine Signals, Hyderabad_ as _Research Engineer_.** |
-|      | Successfully completed the _Post-Doctoral Research_. |
+| 2020 | Successfully completed the _Post-Doctoral Research_. |
 |      | **Joined _International Institute of Information Technology (IIIT) Hyderabad_ as _Post-Doctoral Researcher_.** |
 |      | **Awarded the 1st PhD degree given to a student of any six 3rd Generation IITs.** |
 |      | Defended PhD Thesis. |
