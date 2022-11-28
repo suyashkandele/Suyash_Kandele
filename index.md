@@ -47,6 +47,10 @@ You can find my CV [here](CV-2021-06-02.pdf) (last updated on 2nd June 2021).
 
 My entire list of publications can be found [here](publications).
 
+### Experience
+
+The details of my professional experience are mentioned [here](experience).
+
 ### Educational Background
 
 The timeline of my educational background is [here](education).
