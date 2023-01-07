@@ -9,9 +9,10 @@
 ![Image](/Photo-Suyash300.jpg)
 
 Currently, I am a _Cyber Security Specialist_ at [_Bosch Global Software Technology (BGSW), Bangalore_](https://www.bosch-softwaretechnologies.com/).
-Prior to this, I was a _Research Engineer_ at [_Ceremorphic Technologies Pvt. Ltd., Hyderabad_](https://ceremorphic.com/).
 
-Before this, I was a _Post-Doctoral Researcher_ at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/). I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) on _9th May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
+Prior to this, I was a _Research Engineer_ at [_Ceremorphic Technologies Pvt. Ltd., Hyderabad_](https://ceremorphic.com/) since September 2020. Before joining the industry, I was a _Post-Doctoral Researcher_ at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/).
+
+I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) in _May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
 
 I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science and Engineering_, awarded by [_National Institute of Technology (NIT) Raipur_](http://www.nitrr.ac.in/) (2015), and a receipient of the prestigious _NTSE (National Talent Search Examination) scholarship, 2007_, awarded by [_National Council of Educational Research and Training (NCERT)_](http://ncert.nic.in/).
 
@@ -41,7 +42,7 @@ My research interests are in various areas related to computer and information s
 
 ### Curriculum Vitae
 
-You can find my CV [here](CV-2021-06-02.pdf) (last updated on 2nd June 2021).
+You can find my short CV [here](CV-2021-06-02.pdf) (last updated on 2nd June 2021). For full CV, please drop me an email.
 
 ### List of Publications
 
@@ -61,13 +62,17 @@ The timeline of my educational background is [here](education).
 
 ### Contact Me
 
-<i class="fa fa-home"></i> "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India.
+<i class="fa fa-home"></i> Bhilai, Chhattisgarh, India.
 
 <i class="fa fa-globe"></i> [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
-<i class="fa fa-envelope-square"></i> [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
+<i class="fa fa-envelope-square"></i> [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
 
-<i class="fa fa-mobile"></i> (+91)-97546-58975, (+91)-96870-34657
+<i class="fa fa-envelope-square"></i> [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
+
+<i class="fa fa-envelope-square"></i> [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
+
+<i class="fa fa-mobile"></i> (+91)-97546-58975
 
 <i class="fa fa-linkedin-square"></i> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
@@ -75,7 +80,7 @@ The timeline of my educational background is [here](education).
 
 <img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537)
 
-<!--- ![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) --->
+![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
 
 <!--- ![LinkedIn](/Icon-LinkedIn20.png) [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele) --->
 
