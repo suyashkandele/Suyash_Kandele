@@ -10,13 +10,13 @@
    - **Company:** Bosch Global Software Technology (BGSW), Bangalore
    - **Duration:** 28 February 2022 to Present
    - **Projects:**
-      1 **Azure IoT Device SDK Security Assessment**
+      - **Azure IoT Device SDK Security Assessment**
          - **Client:** Microsoft.
          - **Languages:** C and Embedded C.
          - **Role:** Tester.
          - **Outcomes:**
             - Found 92 vulnerabilities and observations out of a total of 93 vulnerabilities and observations reported.
-      1 **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
+      - **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
          - **Client:** Ceat Tyres.
          - **Role:** SPOC for the project.
          - Managing:
@@ -24,11 +24,11 @@
             - Web Application Testing.
             - Cloud Security Assessment.
             - Device Security Assessment.
-      1 **Local Data Signing PKS Service**
+      - **Local Data Signing PKS Service**
          - **Client:** ESCRYPT.
          - **Languages:** C and SQL.
          - **Role:** Coordinator & reviewer for the PKS Development.
-      1 **Keyless Car Project Code Review**
+      - **Keyless Car Project Code Review**
          - **Client:** General Motors.
          - **Languages:** C, Objective C, Swift.
          - **Role:** Tester.
