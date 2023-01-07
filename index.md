@@ -8,11 +8,11 @@
 
 ![Image](/Photo-Suyash300.jpg)
 
-Currently, I am a _Cyber Security Specialist_ at [_Bosch Global Software Technology (BGSW), Bangalore_](https://www.bosch-softwaretechnologies.com/).
+Currently, I am a _Cyber Security Specialist_ at [_Bosch Global Software Technology (BGSW), Bangalore_](https://www.bosch-softwaretechnologies.com/) since February 2022.
 
-Prior to this, I was a _Research Engineer_ at [_Ceremorphic Technologies Pvt. Ltd., Hyderabad_](https://ceremorphic.com/) since September 2020. Before joining the industry, I was a _Post-Doctoral Researcher_ at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/).
+Prior to this, I was a _Research Engineer_ at [_Ceremorphic Technologies Pvt. Ltd., Hyderabad_](https://ceremorphic.com/) since September 2020. Before joining the industry, I was a _Post-Doctoral Researcher_ at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/) in the area of Blockchains.
 
-I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) in _May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
+I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) in _May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). The title of my Thesis is _Cryptographic Primitives Based on Reverse Decryption_. Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
 
 I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science and Engineering_, awarded by [_National Institute of Technology (NIT) Raipur_](http://www.nitrr.ac.in/) (2015), and a receipient of the prestigious _NTSE (National Talent Search Examination) scholarship, 2007_, awarded by [_National Council of Educational Research and Training (NCERT)_](http://ncert.nic.in/).
 
@@ -24,7 +24,7 @@ My research interests are in various areas related to computer and information s
 
 1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ ([Raipur](Raipur-Patrika-13-May-2020.jpg), [Bhilai-Durg](Bhilai-Durg-Patrika-13-May-2020.jpg)) and [_Haribhoomi_](Bhilai-Haribhoomi-12-May-2020.png) – in Chhattisgarh state.
 
-1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_. [<i class="fa fa-globe"></i>](https://www.iitbhilai.ac.in/) [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf)
+1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_. [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf)
 
 1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_. [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=107106)
 
@@ -56,10 +56,6 @@ The details of my professional experience are mentioned [here](experience).
 
 The timeline of my educational background is [here](education).
 
-<!--- ### My hobbies --->
-
-<!--- [here](hobbies). --->
-
 ### Contact Me
 
 <i class="fa fa-home"></i> Bhilai, Chhattisgarh, India.
@@ -72,7 +68,7 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-envelope-square"></i> [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
 
-<i class="fa fa-mobile"></i> (+91)-97546-58975
+<i class="fa fa-mobile"></i> (+91)-975-465-8975
 
 <i class="fa fa-linkedin-square"></i> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
