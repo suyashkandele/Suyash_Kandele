@@ -79,13 +79,3 @@ The timeline of my educational background is [here](education).
 <i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
 
 <img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537)
-
-![Email](/Icon-Mail20.png) [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in), [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
-
-<!--- ![LinkedIn](/Icon-LinkedIn20.png) [https://linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele) --->
-
-<!--- ![Address](/Icon-Home20.png) "NEST", 34/6, Gurudwara Road, Nehru Nagar (West), Bhilai, CG 490020, India. --->
-
-<!--- ![Phone No.](/Icon-Phone20.png) (+91)-97546-58975, (+91)-96870-34657 --->
-
-<!--- ![Website](/Icon-Web20.png) [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) --->
