@@ -10,13 +10,13 @@
    - **Company:** Bosch Global Software Technology (BGSW), Bangalore
    - **Duration:** 28 February 2022 to Present
    - **Projects:**
-      - **Azure IoT Device SDK Security Assessment**
+      1 **Azure IoT Device SDK Security Assessment**
          - **Client:** Microsoft.
          - **Languages:** C and Embedded C.
          - **Role:** Tester.
          - **Outcomes:**
             - Found 92 vulnerabilities and observations out of a total of 93 vulnerabilities and observations reported.
-      - **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
+      1 **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
          - **Client:** Ceat Tyres.
          - **Role:** SPOC for the project.
          - Managing:
@@ -24,11 +24,11 @@
             - Web Application Testing.
             - Cloud Security Assessment.
             - Device Security Assessment.
-      - **Local Data Signing PKS Service**
+      1 **Local Data Signing PKS Service**
          - **Client:** ESCRYPT.
          - **Languages:** C and SQL.
          - **Role:** Coordinator & reviewer for the PKS Development.
-      - **Keyless Car Project Code Review**
+      1 **Keyless Car Project Code Review**
          - **Client:** General Motors.
          - **Languages:** C, Objective C, Swift.
          - **Role:** Tester.
@@ -39,7 +39,7 @@
    - **Department:** Algorithms and Systems Engineering
    - **Company:** Ceremorphic Technology Pvt. Ltd., Hyderabad
    - **Duration:** 15 September 2020 to 11 February 2022 (1 year 5 months)
-   - **Outcome:**
+   - **Outcomes:**
       - 07 Patent Applications Filed.
          - First Inventor in 05 Patents.
          - Second Inventor in 02 Patents.
