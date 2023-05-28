@@ -18,7 +18,7 @@ I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science
 
 ### Research Interests
 
-My research interests are in various areas related to computer and information security, such as Quantum Security, Blockchain, Cryptographic Primitives and Protocols, Network Security, Cloud Security, IoT, etc.
+My research interests are in various areas related to computer and information security, such as Post-Quantum Cryptography (PQC), Quantum Security, Blockchain, Cryptographic Primitives and Protocols, Network Security, Cloud Security, IoT, etc.
 
 ### Awards and Honours
 
