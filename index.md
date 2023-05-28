@@ -74,6 +74,8 @@ The timeline of my educational background is [here](education).
 
 <i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
 
+<i class="fa fa-google"></i> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Patents_logo.png" width="20" height="10" alt="Google Patents" style="border: 0" /> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
 
 <img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537)
