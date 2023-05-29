@@ -44,6 +44,10 @@ My research interests are in various areas related to computer and information s
 
 You can find my short CV [here](CV-2021-06-02.pdf) (last updated on 2nd June 2021). For full CV, please drop me an email.
 
+### List of Patents
+
+The List of Patents filed can be found [here](patents).
+
 ### List of Publications
 
 My entire list of publications can be found [here](publications).
