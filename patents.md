@@ -16,6 +16,6 @@
 
 1. [**Device Authentication using Blockchain**](https://patents.google.com/patent/US20220417030A1/en). Ananya Shrivastava, Mohammed Sumair, Joydeep Kumar Devnath, _**Suyash Kandele**_, Govardhan Mattela.
 
-1. 06 More Coming Soon.
+1. [**06 More Coming Soon**]().
 
 [<i class="fa fa-arrow-circle-left"></i> Homepage](index)
