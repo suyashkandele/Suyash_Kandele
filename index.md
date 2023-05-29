@@ -47,8 +47,6 @@ You can find my short CV [here](CV-2021-06-02.pdf) (last updated on 2nd June 202
 ### List of Patents
 
 The List of Patents filed can be found [here](patents).
-My entire list of publications can be found [here](patents).
-
 
 ### List of Publications
 
