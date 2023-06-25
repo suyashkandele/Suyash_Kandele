@@ -76,6 +76,9 @@ td, th {
 | <i class="fa fa-home"></i> | Bhilai, Chhattisgarh, India. |
 | --: | :-- |
 | <i class="fa fa-globe"></i> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" width="21" height="21" alt="Email" style="border: 0" /> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Applications-internet.svg" width="21" height="21" alt="Email" style="border: 0" /> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/R%C3%A9pr%C3%A9sentation_d%27internet.jpg" width="21" height="21" alt="Email" style="border: 0" /> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
