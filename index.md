@@ -80,11 +80,6 @@ The timeline of my educational background is [here](education).
 
 
 
-{% stripnewlines %}
-|--------|------- {% newline %}
-|] content |] content {% newline %}
-|**Total**|**Total**{% newline %}
-{% endstripnewlines %}
 
 
 
