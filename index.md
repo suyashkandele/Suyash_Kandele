@@ -85,7 +85,7 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-google"></i> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
 
-<i class="fa fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-5887-2907)
+<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-5887-2907)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="20" height="21" alt="Elsevier" style="border: 0" /> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202719111)
 
