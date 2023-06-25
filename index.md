@@ -76,8 +76,6 @@ td, th {
 | <i class="fa fa-home"></i> | Bhilai, Chhattisgarh, India. |
 | --: | :-- |
 | <i class="fa fa-globe"></i> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
-| <i class="fa fa-envelope-square"></i> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Email_icon.svg" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
