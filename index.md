@@ -8,6 +8,7 @@
 
 ![Image](/Photo-Suyash300.jpg)
 
+<style>body {text-align: justify}</style>
 <p align='justify'>
 Currently, I am a _Cyber Security Specialist_ at [_Bosch Global Software Technology (BGSW), Bangalore_](https://www.bosch-softwaretechnologies.com/) since February 2022.
 
