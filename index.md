@@ -4,7 +4,7 @@
 <!--- <script src="/path/to/js/themes/fa5/theme.js"></script> --->
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
-## Welcome
+## Welcome!
 
 ![Image](/Photo-Suyash300.jpg)
 
