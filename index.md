@@ -93,6 +93,8 @@ The timeline of my educational background is [here](education).
 
 <img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> Email: [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width="93" height="21" alt="BOSCH" style="border: 0" /> Email: [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Bosch-Logo.svg" width="21" height="5" alt="BOSCH" style="border: 0" /> Email: [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
 
 <i class="fa fa-mobile"></i> (+91)-975-465-8975
