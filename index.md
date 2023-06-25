@@ -74,33 +74,16 @@ td, th {
 </style>
 
 | <i class="fa fa-home"></i> | Bhilai, Chhattisgarh, India. |
-
 | <i class="fa fa-globe"></i> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
-
 | <i class="fa fa-envelope-square"></i> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
-
-| <i class="fa fa-envelope-square"></i> | [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in) |
-
 | <img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> | [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in) |
-
-| <i class="fa fa-envelope-square"></i> | [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com) |
-
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width="93" height="21" alt="BOSCH" style="border: 0" /> | [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com) |
-
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Bosch-Logo.svg" width="21" height="5" alt="BOSCH" style="border: 0" /> | [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com) |
-
 | <i class="fa fa-mobile"></i> | (+91)-975-465-8975 |
-
 | <img src="https://www.clipartmax.com/png/small/43-435243_phone-blue-clip-art-at-clker-mobile-phone-symbol-png.png" width="20" height="26" alt="LinkedIn" style="border: 0" /> | (+91)-975-465-8975 |
-
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn" style="border: 0" /> | [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele) |
-
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="20" height="21" alt="Google Scholar" style="border: 0" /> | [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en) |
-
 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Patents_logo.png" width="56" height="21" alt="Google Patents" style="border: 0" /> | [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele) |
-
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="21" alt="ORCID" style="border: 0" /> | [ORCID](https://orcid.org/0000-0002-5887-2907) |
-
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="20" height="21" alt="Elsevier" style="border: 0" /> | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202719111) |
-
 | <img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> | [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537) |
