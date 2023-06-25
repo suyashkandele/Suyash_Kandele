@@ -8,7 +8,7 @@
 
 ![Image](/Photo-Suyash300.jpg)
 
-<div style='text-align: justify;'>
+<div align='justify'>
 Currently, I am a _Cyber Security Specialist_ at [_Bosch Global Software Technology (BGSW), Bangalore_](https://www.bosch-softwaretechnologies.com/) since February 2022.
 
 Prior to this, I was a _Research Engineer_ at [_Ceremorphic Technologies Pvt. Ltd., Hyderabad_](https://ceremorphic.com/) (formerly _Redpine Signals Pvt. Ltd., Hyderabad_) since September 2020. Before joining the industry, I was a _Post-Doctoral Researcher_ at [_International Institute of Information Technology (IIIT) Hyderabad_](https://www.iiit.ac.in/) working with [Prof. Kamal Karlapalem](https://www.iiit.ac.in/people/faculty/kamal/) in the area of Blockchains.
