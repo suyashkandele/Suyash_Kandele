@@ -74,6 +74,7 @@ td, th {
 </style>
 
 | <i class="fa fa-home"></i> | Bhilai, Chhattisgarh, India. |
+| --: | :--- |
 | <i class="fa fa-globe"></i> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
 | <i class="fa fa-envelope-square"></i> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> | [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in) |
