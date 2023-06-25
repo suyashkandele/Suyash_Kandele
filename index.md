@@ -78,7 +78,7 @@ The timeline of my educational background is [here](education).
 <i class="fa fa-envelope-square"></i> [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
 
 
-<table class="table table-borderless"></table>
+<table class="table table-borderless">
 
 | Year | Events |
 |--------------------------|--------------------------|
@@ -87,7 +87,7 @@ The timeline of my educational background is [here](education).
 |      | **Awarded the 1st PhD degree given to a student of any six 3rd Generation IITs.** |
 |      | Defended PhD Thesis. |
 
-
+</table>
 
 
 
