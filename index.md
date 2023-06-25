@@ -29,9 +29,9 @@ I am passionate about Software Secure Code Review, and Teaching and Training on 
 
 1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ ([Raipur](Raipur-Patrika-13-May-2020.jpg), [Bhilai-Durg](Bhilai-Durg-Patrika-13-May-2020.jpg)) and [_Haribhoomi_](Bhilai-Haribhoomi-12-May-2020.png) – in Chhattisgarh state (2020).
 
-1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_ [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf) (2020).
+1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_ (2020) [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf).
 
-1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_ [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=107106) (2020).
+1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_ (2020) [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=107106).
 
 1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_ (2018-20).
 
