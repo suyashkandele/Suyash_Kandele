@@ -75,6 +75,10 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-envelope-square"></i> [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
 
+<i class="fa fa-envelope-square"></i> [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
+
+
+
 
 {% stripnewlines %}
 |--------|------- {% newline %}
@@ -86,7 +90,7 @@ The timeline of my educational background is [here](education).
 
 
 
-
+<img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> Email: [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width="93" height="21" alt="BOSCH" style="border: 0" /> Email: [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
 
