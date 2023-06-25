@@ -35,13 +35,13 @@ I am passionate about Software Secure Code Review, and Teaching and Training on 
 
 1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_.
 
-1. Awarded the prestigious _Start-Early PhD fellowship_ by _IIT Gandhinagar_.
+1. Awarded the prestigious _Start-Early PhD fellowship_ by _IIT Gandhinagar_ (2015).
 
-1. _Silver Medallist_ in BTech from _NIT Raipur_.
+1. _Silver Medallist_ in BTech from _NIT Raipur_ (2015).
 
 1. Achieved 99.16th percentile in _GATE (Graduate Aptitude Test in Engineering) 2015_, organized by _Ministry of Human Resources Development (MHRD), Government of India_.
 
-1. All India rank 22 (State rank 2) in _10th National Cyber Olympiad_ conducted by _Science Olympiad Foundation (SOF)_.
+1. All India rank 22 (State rank 2) in _10th National Cyber Olympiad_ conducted by _Science Olympiad Foundation (SOF)_ (2011).
 
 1. Awarded the scholarship under _National Talent Search Examination, 2007_ by _National Council of Educational Research and Training (NCERT)_.
 
