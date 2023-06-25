@@ -24,7 +24,7 @@ My research interests are in various areas related to computer and information s
 
 ### Other Interests
 
-Besides research, I am passionate about Software Secure Code Review, and Teaching and Training on the Best and Secure Coding Practices.
+I am passionate about Software Secure Code Review, and Teaching and Training on the Best and Secure Coding Practices.
 
 ### Awards and Honours
 
