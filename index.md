@@ -83,9 +83,9 @@ The timeline of my educational background is [here](education).
 
 <i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
 
-<i class="fa fa-google"></i> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Patents_logo.png" width="56" height="21" alt="Google Patents" style="border: 0" /> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
 
-<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-5887-2907)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Patents_logo.png" width="56" height="21" alt="Google Patents" style="border: 0" /> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="21" alt="ORCID" style="border: 0" /> [ORCID](https://orcid.org/0000-0002-5887-2907)
 
