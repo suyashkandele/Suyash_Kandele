@@ -106,6 +106,10 @@ td, th {
 
 <img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> Email: [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
 
+![Image](/Photo-Suyash300.jpg)
+
+![Image](/Photo-Suyash300.jpg) Email: [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width="93" height="21" alt="BOSCH" style="border: 0" /> Email: [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Bosch-Logo.svg" width="21" height="5" alt="BOSCH" style="border: 0" /> Email: [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
@@ -121,6 +125,10 @@ td, th {
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Patents_logo.png" width="56" height="21" alt="Google Patents" style="border: 0" /> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="21" alt="ORCID" style="border: 0" /> [ORCID](https://orcid.org/0000-0002-5887-2907)
+
+
+
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="20" height="21" alt="Elsevier" style="border: 0" /> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202719111)
 
