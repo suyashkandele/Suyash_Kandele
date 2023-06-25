@@ -76,7 +76,11 @@ The timeline of my educational background is [here](education).
 <i class="fa fa-envelope-square"></i> [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
 
 
-
+{% stripnewlines %}
+|--------|------- {% newline %}
+|] content |] content {% newline %}
+|**Total**|**Total**{% newline %}
+{% endstripnewlines %}
 
 
 
