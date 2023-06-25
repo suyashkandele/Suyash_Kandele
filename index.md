@@ -85,4 +85,6 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-google"></i> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
 
+<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-5887-2907)
+
 <img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537)
