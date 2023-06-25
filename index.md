@@ -87,6 +87,8 @@ The timeline of my educational background is [here](education).
 
 <i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-5887-2907)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="21" alt="ORCID" style="border: 0" /> [ORCID](https://orcid.org/0000-0002-5887-2907)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="20" height="21" alt="Elsevier" style="border: 0" /> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202719111)
 
 <img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537)
