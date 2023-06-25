@@ -75,13 +75,18 @@ The timeline of my educational background is [here](education).
 
 <i class="fa fa-envelope-square"></i> [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
 
-<i class="fa fa-envelope-square"></i> [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
+
+
+
+
+
+
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width="93" height="21" alt="BOSCH" style="border: 0" /> Email: [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
 
 <i class="fa fa-mobile"></i> (+91)-975-465-8975
-
-
-
-
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="21" height="21" alt="LinkedIn" style="border: 0" /> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
