@@ -112,7 +112,7 @@ td, th {
 
 <i class="fa fa-mobile"></i> (+91)-975-465-8975
 
-<img src="https://www.clipartmax.com/png/small/43-435243_phone-blue-clip-art-at-clker-mobile-phone-symbol-png.png" width="20" height="28" alt="LinkedIn" style="border: 0" /> (+91)-975-465-8975
+<img src="https://www.clipartmax.com/png/small/43-435243_phone-blue-clip-art-at-clker-mobile-phone-symbol-png.png" width="20" height="26" alt="LinkedIn" style="border: 0" /> (+91)-975-465-8975
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn" style="border: 0" /> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
