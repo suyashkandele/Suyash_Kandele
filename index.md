@@ -22,6 +22,10 @@ I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science
 
 My research interests are in various areas related to computer and information security, such as Post-Quantum Cryptography (PQC), Quantum Security, Blockchain, Cryptographic Primitives and Protocols, Network Security, Cloud Security, IoT, etc.
 
+### Other Interests
+
+Besides research, I love Software Secure Code Review, and Teaching and Training on the Best and Secure Coding Practices.
+
 ### Awards and Honours
 
 1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ ([Raipur](Raipur-Patrika-13-May-2020.jpg), [Bhilai-Durg](Bhilai-Durg-Patrika-13-May-2020.jpg)) and [_Haribhoomi_](Bhilai-Haribhoomi-12-May-2020.png) – in Chhattisgarh state.
