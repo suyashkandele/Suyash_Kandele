@@ -76,8 +76,6 @@ td, th {
 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/House.svg" width="21" height="21" alt="Email" style="border: 0" /> | Bhilai, Chhattisgarh, India. |
 | --: | :-- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" width="21" height="21" alt="Email" style="border: 0" /> | [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> | [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width="46" height="10" alt="BOSCH" style="border: 0" /> | [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com) |
