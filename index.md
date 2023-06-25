@@ -27,23 +27,23 @@ I am passionate about Software Secure Code Review, and Teaching and Training on 
 
 ### Awards and Honours
 
-1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ ([Raipur](Raipur-Patrika-13-May-2020.jpg), [Bhilai-Durg](Bhilai-Durg-Patrika-13-May-2020.jpg)) and [_Haribhoomi_](Bhilai-Haribhoomi-12-May-2020.png) – in Chhattisgarh state.
+1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ ([Raipur](Raipur-Patrika-13-May-2020.jpg), [Bhilai-Durg](Bhilai-Durg-Patrika-13-May-2020.jpg)) and [_Haribhoomi_](Bhilai-Haribhoomi-12-May-2020.png) – in Chhattisgarh state (2020).
 
-1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_. [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf)
+1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_ [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf) (2020).
 
-1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_. [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=107106)
+1. Awarded the _1st PhD_ degree given to a scholar of _Dr. Souradyuti Paul_ [<i class="fa fa-globe"></i>](https://www.mathgenealogy.org/id.php?id=107106) (2020).
 
-1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_.
+1. 10/10 SPI in all semesters during PhD at _IIT Bhilai_ (2018-20).
 
 1. Awarded the prestigious _Start-Early PhD fellowship_ by _IIT Gandhinagar_ (2015).
 
 1. _Silver Medallist_ in BTech from _NIT Raipur_ (2015).
 
-1. Achieved 99.16th percentile in _GATE (Graduate Aptitude Test in Engineering) 2015_, organized by _Ministry of Human Resources Development (MHRD), Government of India_.
+1. Achieved 99.16th percentile in _GATE (Graduate Aptitude Test in Engineering) 2015_, organized by _Ministry of Human Resources Development (MHRD), Government of India_ (2015).
 
 1. All India rank 22 (State rank 2) in _10th National Cyber Olympiad_ conducted by _Science Olympiad Foundation (SOF)_ (2011).
 
-1. Awarded the scholarship under _National Talent Search Examination, 2007_ by _National Council of Educational Research and Training (NCERT)_.
+1. Awarded the scholarship under _National Talent Search Examination, 2007_ by _National Council of Educational Research and Training (NCERT)_ (2007).
 
 ### Curriculum Vitae
 
