@@ -83,7 +83,6 @@ td, th {
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="21" height="21" alt="Email" style="border: 0" /> | [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> | [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width="46" height="10" alt="BOSCH" style="border: 0" /> | [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Bosch-Logo.svg" width="21" height="5" alt="BOSCH" style="border: 0" /> | [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="21" height="21" alt="LinkedIn" style="border: 0" /> | (+91)-975-465-8975 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn" style="border: 0" /> | [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="20" height="21" alt="Google Scholar" style="border: 0" /> | [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en) |
