@@ -9,6 +9,7 @@
 
 - **Cyber Security Specialist**
 
+<span style="font-family:Papyrus; font-size:4em;">
 <style>
 td, th {
    border: none!important;
@@ -22,7 +23,8 @@ td, th {
 *Projects:*
 **Post-Quantum Cryptography Project**
 Funded by *Bosch's Centre of Excellence (CoE)*.
-   
+
+</span>
    
    - *Department:* &nbsp; &nbsp; Cyber Security Consulting & Security Capability Development (MS/ECL)
    - *Team:* &nbsp; &nbsp; Cyber Security University (MS/ECL3)
