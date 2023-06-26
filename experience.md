@@ -60,7 +60,7 @@
 
 ### **International Institute of Information Technology (IIIT) Hyderabad**
 
-#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Post-doctoral Researcher**
+#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Post-Doctoral Researcher**
 - **Field:** Blockchains
 - **Mentor:** Prof. Kamalakar Karlapalem
 - **Duration:** 20 June 2020 to 14 September 2020 (3 months)
