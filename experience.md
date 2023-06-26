@@ -14,10 +14,10 @@ td, th {
    border: none!important;
 }
 </style>
-| *Department:* | Cyber Security Consulting & Security Capability Development (MS/ECL) |
-|----|----|
-| *Team:* | Cyber Security University (MS/ECL3) |
-| *Duration:* | 01 January 2023 to Present |
+| <i class="fa fa-shield fa-rotate-270"></i> | *Department:* | Cyber Security Consulting & Security Capability Development (MS/ECL) |
+|  |----|----|
+|  | *Team:* | Cyber Security University (MS/ECL3) |
+|  | *Duration:* | 01 January 2023 to Present |
 
 *Projects:*
 **Post-Quantum Cryptography Project**
