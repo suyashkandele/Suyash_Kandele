@@ -12,10 +12,11 @@
      td, th {
         border: none!important;
      }
+    </style>
   | *Department:* | Cyber Security Consulting & Security Capability Development (MS/ECL) |
   | *Team:* | Cyber Security University (MS/ECL3) |
   | *Duration:* | 01 January 2023 to Present |
-  </style>
+  **Check**
    - *Projects:*
       - **Post-Quantum Cryptography Project**
          - Funded by *Bosch's Centre of Excellence (CoE)*.
