@@ -48,22 +48,22 @@
 
 ### Ceremorphic Technologies Pvt. Ltd., Hyderabad
 
-- **Research Engineer**
-   - **Department:** Algorithms and Systems Engineering
-   - **Duration:** 15 September 2020 to 11 February 2022 (1 year 5 months)
-   - **Outcomes:**
-      - 07 Patent Applications Filed.
-         - First Inventor in 05 Patents.
-         - Second Inventor in 02 Patents.
-      - Proposed 10 Research Ideas.
+#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Research Engineer**
+- **Department:** Algorithms and Systems Engineering
+- **Duration:** 15 September 2020 to 11 February 2022 (1 year 5 months)
+- **Outcomes:**
+   - 07 Patent Applications Filed.
+      - First Inventor in 05 Patents.
+      - Second Inventor in 02 Patents.
+   - Proposed 10 Research Ideas.
 
 ### International Institute of Information Technology (IIIT) Hyderabad
 
-- **Post-doctoral Researcher**
-   - **Field:** Blockchains
-   - **Mentor:** Prof. Kamalakar Karlapalem
-   - **Duration:** 20 June 2020 to 14 September 2020 (3 months)
-   - **Outcome:**
-      - 01 Patent Application Filed.
+#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Post-doctoral Researcher**
+- **Field:** Blockchains
+- **Mentor:** Prof. Kamalakar Karlapalem
+- **Duration:** 20 June 2020 to 14 September 2020 (3 months)
+- **Outcome:**
+   - 01 Patent Application Filed.
 
 [<i class="fa fa-arrow-circle-left"></i> Homepage](index)
