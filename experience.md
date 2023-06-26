@@ -11,9 +11,9 @@
 
 <style>
 td, th {
+   border: none!important;
    display: none;
    font-size: 10px;
-   border: none!important;
 }
 </style>
 |  |  |
