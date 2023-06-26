@@ -6,7 +6,9 @@
 ## My Experience
 
 ### **Bosch Global Software Technology (BGSW), Bangalore**
+
 #### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Cyber Security Specialist**
+
 - **Department:** Cyber Security Consulting & Security Capability Development (MS/ECL)
 - **Team:** Cyber Security University (MS/ECL3)
 - **Duration:** 01 January 2023 to Present
@@ -14,50 +16,35 @@
    - **Post-Quantum Cryptography Project**
       - Funded by *Bosch's Centre of Excellence (CoE)*.
 
-#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; *Cyber Security Specialist*
-- **Department:** Cyber Security Consulting & Security Capability Development (MS/ECL)
-- **Team:** Cyber Security University (MS/ECL3)
-- **Duration:** 01 January 2023 to Present
+#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Secure Code Review Specialist**
+- **Department:** Cyber Security Engineering (MS/ECE)
+- **Team:** Security Verification & Validation (MS/ECE5)
+- **Duration:** 28 February 2022 to 31 December 2022 (10 months)
 - **Projects:**
-   - **Post-Quantum Cryptography Project**
-      - Funded by *Bosch's Centre of Excellence (CoE)*.
-
-- **Cyber Security Specialist**
-   - **Department:** Cyber Security Consulting & Security Capability Development (MS/ECL)
-   - **Team:** Cyber Security University (MS/ECL3)
-   - **Duration:** 01 January 2023 to Present
-   - **Projects:**
-      - **Post-Quantum Cryptography Project**
-         - Funded by *Bosch's Centre of Excellence (CoE)*.
-- **Secure Code Review Specialist**
-   - **Department:** Cyber Security Engineering (MS/ECE)
-   - **Team:** Security Verification & Validation (MS/ECE5)
-   - **Duration:** 28 February 2022 to 31 December 2022 (10 months)
-   - **Projects:**
-      - **Azure IoT Device SDK Security Assessment**
-         - **Client:** Microsoft.
-         - **Languages:** C and Embedded C.
-         - **Role:** Tester.
-         - **Outcomes:**
-            - Found 92 vulnerabilities and observations out of a total of 93 vulnerabilities and observations reported.
-      - **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
-         - **Client:** Ceat Tyres.
-         - **Role:** SPOC for the project.
-         - Managing:
-            - Mobile Application Testing.
-            - Web Application Testing.
-            - Cloud Security Assessment.
-            - Device Security Assessment.
-      - **Local Data Signing PKS Service**
-         - **Client:** ESCRYPT.
-         - **Languages:** C and SQL.
-         - **Role:** Coordinator & reviewer for the PKS Development.
-      - **Keyless Car Project Code Review**
-         - **Client:** General Motors.
-         - **Languages:** C, Objective C, Swift.
-         - **Role:** Tester.
-         - **Outcomes:**
-            - Found 10 vulnerabilities and observations out of a total of 16 vulnerabilities and observations reported in 29 files out of 311 files.
+   - **Azure IoT Device SDK Security Assessment**
+      - **Client:** Microsoft.
+      - **Languages:** C and Embedded C.
+      - **Role:** Tester.
+      - **Outcomes:**
+         - Found 92 vulnerabilities and observations out of a total of 93 vulnerabilities and observations reported.
+   - **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
+      - **Client:** Ceat Tyres.
+      - **Role:** SPOC for the project.
+      - Managing:
+         - Mobile Application Testing.
+         - Web Application Testing.
+         - Cloud Security Assessment.
+         - Device Security Assessment.
+   - **Local Data Signing PKS Service**
+      - **Client:** ESCRYPT.
+      - **Languages:** C and SQL.
+      - **Role:** Coordinator & reviewer for the PKS Development.
+   - **Keyless Car Project Code Review**
+      - **Client:** General Motors.
+      - **Languages:** C, Objective C, Swift.
+      - **Role:** Tester.
+      - **Outcomes:**
+         - Found 10 vulnerabilities and observations out of a total of 16 vulnerabilities and observations reported in 29 files out of 311 files.
 
 ### Ceremorphic Technologies Pvt. Ltd., Hyderabad
 
