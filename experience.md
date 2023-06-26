@@ -30,7 +30,7 @@
    - **iTAMS (intelligent Tyre Asset Management) Ecosystem Penetration Test**
       - **Client:** Ceat Tyres.
       - **Role:** SPOC for the project.
-      - Managing:
+      - **Managing:**
          - Mobile Application Testing.
          - Web Application Testing.
          - Cloud Security Assessment.
