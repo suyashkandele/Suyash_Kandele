@@ -7,8 +7,8 @@
 
 ### Bosch Global Software Technology (BGSW), Bangalore
 #### Level4 <i class="fa fa-shield fa-rotate-270"></i>
-#### Level5 <i class="fa fa-shield fa-rotate-270"></i>
-#### Level6 <i class="fa fa-shield fa-rotate-270"></i>
+##### Level5 <i class="fa fa-shield fa-rotate-270"></i>
+###### Level6 <i class="fa fa-shield fa-rotate-270"></i>
 
 - **Cyber Security Specialist**
    - **Department:** Cyber Security Consulting & Security Capability Development (MS/ECL)
