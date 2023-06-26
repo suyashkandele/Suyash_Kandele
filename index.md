@@ -112,14 +112,14 @@ td, th {
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="21" height="21" alt="LinkedIn" style="border: 0" /> &nbsp; &nbsp; (+91)-975-465-8975
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn" style="border: 0" /> [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn" style="border: 0" /> &nbsp; &nbsp; [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="20" height="21" alt="Google Scholar" style="border: 0" /> [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="20" height="21" alt="Google Scholar" style="border: 0" /> &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="20" height="21" alt="Google Patents" style="border: 0" /> [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="20" height="21" alt="Google Patents" style="border: 0" /> &nbsp; &nbsp; [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="21" alt="ORCID" style="border: 0" /> [ORCID](https://orcid.org/0000-0002-5887-2907)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="21" alt="ORCID" style="border: 0" /> &nbsp; &nbsp; [ORCID](https://orcid.org/0000-0002-5887-2907)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="20" height="21" alt="Elsevier" style="border: 0" /> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202719111)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="20" height="21" alt="Elsevier" style="border: 0" /> &nbsp; &nbsp; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202719111)
 
-<img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537)
+<img src="http://www.genealogy.math.ndsu.nodak.edu/img/treebutton.gif" width="20" height="21" alt="The Mathematics Genealogy Project" style="border: 0" /> &nbsp; &nbsp; [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=262537)
