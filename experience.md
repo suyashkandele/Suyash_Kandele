@@ -14,6 +14,7 @@
    - *Projects:*
       - **Post-Quantum Cryptography Project**
          - Funded by *Bosch's Centre of Excellence (CoE)*.
+         
 - **Cyber Security Specialist**
    - **Department:** Cyber Security Consulting & Security Capability Development (MS/ECL)
    - **Team:** Cyber Security University (MS/ECL3)
