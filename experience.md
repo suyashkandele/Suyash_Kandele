@@ -12,6 +12,7 @@
 <font size="2">
 
 <style>
+font-size: 16px;
 td, th {
    border: none!important;
 }
