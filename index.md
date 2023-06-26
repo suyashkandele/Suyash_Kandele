@@ -81,6 +81,8 @@ The timeline of my educational background is [here](education).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn" style="border: 0" /> &nbsp; [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
 
+### Other Useful Links
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="20" height="21" alt="Google Scholar" style="border: 0" /> &nbsp; [Google Scholar](https://scholar.google.com/citations?user=qQxlLMsAAAAJ&hl=en)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="20" height="21" alt="Google Patents" style="border: 0" /> &nbsp; [Google Patents](https://patents.google.com/?inventor=Suyash+Kandele)
