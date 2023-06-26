@@ -100,15 +100,15 @@ td, th {
 
 ### Option 2
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/House.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; &nbsp; Bhilai, Chhattisgarh, India.
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/House.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; Bhilai, Chhattisgarh, India.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; &nbsp; [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; &nbsp; [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
 
-<img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> &nbsp; &nbsp; [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
+<img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> &nbsp; [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
 
-<img src="Aux/Bosch_Logo.png" width="21"> &nbsp; &nbsp; [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
+<img src="Aux/Bosch_Logo.png" width="21"> &nbsp; [suyash.kandele@in.bosch.com](mailto: suyash.kandele@in.bosch.com)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="21" height="21" alt="LinkedIn" style="border: 0" /> &nbsp; &nbsp; (+91)-975-465-8975
 
