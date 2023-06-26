@@ -9,7 +9,7 @@
 
 - **Cyber Security Specialist**
 
-<span style="font-family:Papyrus; font-size:4em;">
+<span style="font-family:Papyrus; font-size:1em;">
 <style>
 td, th {
    border: none!important;
