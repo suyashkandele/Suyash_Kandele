@@ -5,10 +5,18 @@
 
 ## My Experience
 
-1. **Specialist**
+### Bosch Global Software Technology (BGSW), Bangalore
+
+- **Cyber Security Specialist**
+   - **Department:** MS/ECL
+   - **Duration:** 01 January 2023 to Present
+   - **Projects:**
+      - **Post-Quantum Cryptography Project**
+         - Funded by *Bosch's Centre of Excellence (CoE)*.
+
+- **Secure Code Review Specialist**
    - **Department:** MS/ECE
-   - **Company:** Bosch Global Software Technology (BGSW), Bangalore
-   - **Duration:** 28 February 2022 to Present
+   - **Duration:** 28 February 2022 to 31 December 2022 (10 months)
    - **Projects:**
       - **Azure IoT Device SDK Security Assessment**
          - **Client:** Microsoft.
@@ -35,9 +43,10 @@
          - **Outcomes:**
             - Found 10 vulnerabilities and observations out of a total of 16 vulnerabilities and observations reported in 29 files out of 311 files.
 
-1. **Research Engineer**
+### Ceremorphic Technology Pvt. Ltd., Hyderabad
+
+- **Research Engineer**
    - **Department:** Algorithms and Systems Engineering
-   - **Company:** Ceremorphic Technology Pvt. Ltd., Hyderabad
    - **Duration:** 15 September 2020 to 11 February 2022 (1 year 5 months)
    - **Outcomes:**
       - 07 Patent Applications Filed.
@@ -45,10 +54,11 @@
          - Second Inventor in 02 Patents.
       - Proposed 10 Research Ideas.
 
-1. **Postdoctoral Researcher**
+### International Institute of Information Technology (IIIT) Hyderabad
+
+- **Post-doctoral Researcher**
    - **Field:** Blockchains
    - **Mentor:** Prof. Kamalakar Karlapalem
-   - **Institute:** International Institute of Information Technology (IIIT) Hyderabad
    - **Duration:** 20 June 2020 to 14 September 2020 (3 months)
    - **Outcome:**
       - 01 Patent Application Filed.
