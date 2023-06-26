@@ -7,6 +7,9 @@
 
 ### **Bosch Global Software Technology (BGSW), Bangalore**
 #### <i class="fa fa-shield fa-rotate-270"></i> **Cyber Security Specialist**
+#### <i class="fa fa-shield fa-rotate-270"></i> *Cyber Security Specialist*
+#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Cyber Security Specialist**
+#### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; *Cyber Security Specialist*
 - **Department:** Cyber Security Consulting & Security Capability Development (MS/ECL)
 - **Team:** Cyber Security University (MS/ECL3)
 - **Duration:** 01 January 2023 to Present
