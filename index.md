@@ -69,8 +69,6 @@ The timeline of my educational background is [here](education).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/House.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; Bhilai, Chhattisgarh, India.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; [sk.11.1992@gmail.com](mailto: sk.11.1992@gmail.com)
 
 <img src="https://upload.wikimedia.org/wikipedia/en/6/61/IIT_Bhilai_logo.png" width="20" height="21" alt="IIT Bhilai" style="border: 0" /> &nbsp; [suyashk@iitbhilai.ac.in](mailto: suyashk@iitbhilai.ac.in)
@@ -80,6 +78,8 @@ The timeline of my educational background is [here](education).
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="21" height="21" alt="LinkedIn" style="border: 0" /> &nbsp; (+91)-975-465-8975
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn" style="border: 0" /> &nbsp; [linkedin.com/in/suyashkandele](https://linkedin.com/in/suyashkandele)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
 ### Other Useful Links
 
