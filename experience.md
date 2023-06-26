@@ -9,14 +9,11 @@
 
 - **Cyber Security Specialist**
 
-<span style="font-family:Papyrus; font-size:1em;">
 <style>
 td, th {
    border: none!important;
 }
 </style>
-
-**CHECK**
 
 | <i class="fa fa-shield fa-rotate-270"></i> | *Department:* | Cyber Security Consulting & Security Capability Development (MS/ECL) |
 |  |----|----|
