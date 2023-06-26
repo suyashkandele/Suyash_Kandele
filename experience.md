@@ -9,18 +9,13 @@
 
 - **Cyber Security Specialist**
 
-<font size="2">
-
-**CHECK** 
-
 <style>
-font-size: 16px;
 td, th {
    border: none!important;
 }
 </style>
 
-| <i class="fa fa-shield fa-rotate-270"></i> | *Department:* | Cyber Security Consulting & Security Capability Development (MS/ECL) |
+| <i class="fa fa-shield fa-rotate-270"></i> | <font size="2">*Department:*</font> | Cyber Security Consulting & Security Capability Development (MS/ECL) |
 |  |----|----|
 |  | *Team:* | Cyber Security University (MS/ECL3) |
 |  | *Duration:* | 01 January 2023 to Present |
@@ -28,8 +23,6 @@ td, th {
 *Projects:*
 **Post-Quantum Cryptography Project**
 Funded by *Bosch's Centre of Excellence (CoE)*.
-
-</font>
 
 <font size="1"> This is my text number1</font> 
 
