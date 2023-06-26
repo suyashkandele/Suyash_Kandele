@@ -15,7 +15,7 @@ Prior to this, I was a _Research Engineer_ at [_Ceremorphic Technologies Pvt. Lt
 
 I have completed my _Doctor of Philosophy (PhD)_ from [_Indian Institute of Technology (IIT) Bhilai_](https://www.iitbhilai.ac.in/) in _May 2020_ under the guidance of [Dr. Souradyuti Paul](http://souradyuti.com/). The title of my Thesis is _Cryptographic Primitives Based on Reverse Decryption_. Earlier, I was a doctoral scholar in the Discipline of _Computer Science and Engineering_ at [_Indian Institute of Technology (IIT) Gandhinagar_](https://www.iitgn.ac.in/) (July 2015 to December 2017).
 
-I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science and Engineering_, awarded by [_National Institute of Technology (NIT) Raipur_](http://www.nitrr.ac.in/) (2015), and a receipient of the prestigious _NTSE (National Talent Search Examination) scholarship, 2007_, awarded by [_National Council of Educational Research and Training (NCERT)_](http://ncert.nic.in/).
+I am the _Silver medallist_ in my _Bachelors of Technology_ in _Computer Science and Engineering_, awarded by [_National Institute of Technology (NIT) Raipur_](http://www.nitrr.ac.in/) (2015), and a recipient of the prestigious _NTSE (National Talent Search Examination) scholarship, 2007_, awarded by [_National Council of Educational Research and Training (NCERT)_](http://ncert.nic.in/).
 
 ### Research Interests
 
