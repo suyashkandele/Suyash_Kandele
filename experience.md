@@ -14,9 +14,9 @@ td, th {
    border: none!important;
 }
 </style>
-
-| <i class="fa fa-shield fa-rotate-270"></i> | <font size="2">*Department:*</font> | Cyber Security Consulting & Security Capability Development (MS/ECL) |
+|  |  |
 |  |----|----|
+| <i class="fa fa-shield fa-rotate-270"></i> | <font size="2">*Department:*</font> | Cyber Security Consulting & Security Capability Development (MS/ECL) |
 |  | *Team:* | Cyber Security University (MS/ECL3) |
 |  | *Duration:* | 01 January 2023 to Present |
 
