@@ -9,7 +9,7 @@
 
 - **Cyber Security Specialist**
    - **Department:** Cyber Security Consulting, Security Capability Development (MS/ECL)
-   - **Team:** MS/ECL3
+   - **Team:** Cyber Security University (MS/ECL3)
    - **Duration:** 01 January 2023 to Present
    - **Projects:**
       - **Post-Quantum Cryptography Project**
@@ -17,7 +17,7 @@
 
 - **Secure Code Review Specialist**
    - **Department:** Cyber Security Engineering (MS/ECE)
-   - **Team:** MS/ECE5
+   - **Team:** Security Verification & Validation (MS/ECE5)
    - **Duration:** 28 February 2022 to 31 December 2022 (10 months)
    - **Projects:**
       - **Azure IoT Device SDK Security Assessment**
