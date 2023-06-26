@@ -100,7 +100,7 @@ td, th {
 
 ### Option 2
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/House.svg" width="21" height="21" alt="Email" style="border: 0" /> Bhilai, Chhattisgarh, India.
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/House.svg" width="21" height="21" alt="Email" style="border: 0" /> &nbsp; &nbsp; Bhilai, Chhattisgarh, India.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" width="21" height="21" alt="Email" style="border: 0" /> [https://suyashkandele.github.io/Suyash_Kandele/](https://suyashkandele.github.io/Suyash_Kandele/)
 
