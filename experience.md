@@ -9,6 +9,8 @@
 
 - **Cyber Security Specialist**
 
+<font size="2">
+
 <style>
 td, th {
    border: none!important;
@@ -23,6 +25,8 @@ td, th {
 *Projects:*
 **Post-Quantum Cryptography Project**
 Funded by *Bosch's Centre of Excellence (CoE)*.
+
+</font>
 
 <font size="1"> This is my text number1</font> 
 
