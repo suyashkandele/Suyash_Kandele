@@ -12,6 +12,7 @@
 <style>
 td, th {
    display: none;
+   font-size: 10px;
    border: none!important;
 }
 </style>
