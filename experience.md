@@ -46,7 +46,7 @@
       - **Outcomes:**
          - Found 10 vulnerabilities and observations out of a total of 16 vulnerabilities and observations reported in 29 files out of 311 files.
 
-### Ceremorphic Technologies Pvt. Ltd., Hyderabad
+### **Ceremorphic Technologies Pvt. Ltd., Hyderabad**
 
 #### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Research Engineer**
 - **Department:** Algorithms and Systems Engineering
@@ -57,7 +57,7 @@
       - Second Inventor in 02 Patents.
    - Proposed 10 Research Ideas.
 
-### International Institute of Information Technology (IIIT) Hyderabad
+### **International Institute of Information Technology (IIIT) Hyderabad**
 
 #### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Post-doctoral Researcher**
 - **Field:** Blockchains
