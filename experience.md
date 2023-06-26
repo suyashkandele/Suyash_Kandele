@@ -15,6 +15,7 @@
 - **Projects:**
    - **Post-Quantum Cryptography Project**
       - Funded by *Bosch's Centre of Excellence (CoE)*.
+      - **Role:** Scientist.
 
 #### <i class="fa fa-shield fa-rotate-270"></i> &nbsp; **Secure Code Review Specialist**
 - **Department:** Cyber Security Engineering (MS/ECE)
