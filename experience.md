@@ -43,7 +43,7 @@
          - **Outcomes:**
             - Found 10 vulnerabilities and observations out of a total of 16 vulnerabilities and observations reported in 29 files out of 311 files.
 
-### Ceremorphic Technology Pvt. Ltd., Hyderabad
+### Ceremorphic Technologies Pvt. Ltd., Hyderabad
 
 - **Research Engineer**
    - **Department:** Algorithms and Systems Engineering
