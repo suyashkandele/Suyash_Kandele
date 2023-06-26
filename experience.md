@@ -8,13 +8,14 @@
 ### Bosch Global Software Technology (BGSW), Bangalore
 
 - **Cyber Security Specialist**
-   + Key1 : value1
-   + Key2 : value 2
-   + KKKEYYE 3 : value 3333s
-   - 
+  <style>
+     td, th {
+        border: none!important;
+     }
   | *Department:* | Cyber Security Consulting & Security Capability Development (MS/ECL) |
   | *Team:* | Cyber Security University (MS/ECL3) |
   | *Duration:* | 01 January 2023 to Present |
+  </style>
    - *Projects:*
       - **Post-Quantum Cryptography Project**
          - Funded by *Bosch's Centre of Excellence (CoE)*.
