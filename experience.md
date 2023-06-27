@@ -53,9 +53,10 @@
 - **Department:** Algorithms and Systems Engineering
 - **Duration:** 15 September 2020 to 11 February 2022 (1 year 5 months)
 - **Outcomes:**
-   - 07 Patent Applications Filed.
+   - 08 Patent Applications Filed.
       - First Inventor in 05 Patents.
-      - Second Inventor in 02 Patents.
+      - Second Inventor in 01 Patent.
+      - Co-Inventor in 02 Patents.
    - Proposed 10 Research Ideas.
 
 ### **International Institute of Information Technology (IIIT) Hyderabad**
