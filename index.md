@@ -47,7 +47,7 @@ I am passionate about Secure Code Review (Software/Library/SDK), and Teaching an
 
 ### Curriculum Vitae
 
-You can find my short CV [here](CV-2021-06-02.pdf) (last updated on 2nd June 2021). For full CV, please drop me an email.
+You can find my short CV [here](Dr.-Suyash-Kandele_CV_2023-07-02.pdf) (last updated on 2nd July 2023). For full CV, please drop me an email.
 
 ### List of Patents
 
