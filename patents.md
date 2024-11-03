@@ -12,13 +12,7 @@
 
 ### Research Engineer -- Ceremorphic Technologies Pvt. Ltd.
 
-1. [**Look up table (LUT) based chiplet to chiplet secure communication**](https://patents.google.com/patent/US12041159B2/en).
-
-_**Suyash Kandele**_, Joydeep Kumar Devnath, Mohammed Sumair, Ananya Shrivastava, Govardhan Mattela.
-
-US12041159B2.
-
-Priority 2022-02-28. Filed 2022-02-28. Granted 2024-07-16. Published 2024-07-16.
+1. [**Look up table (LUT) based chiplet to chiplet secure communication**](https://patents.google.com/patent/US12041159B2/en).<br/>_**Suyash Kandele**_, Joydeep Kumar Devnath, Mohammed Sumair, Ananya Shrivastava, Govardhan Mattela.<br/>US12041159B2.<br/>Priority 2022-02-28. Filed 2022-02-28. Granted 2024-07-16. Published 2024-07-16.
 
 1. [**Look up table (lut) based encryption with tag-based verification**](https://patents.google.com/patent/US20230275761A1/en).
 
