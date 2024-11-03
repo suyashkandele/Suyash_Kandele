@@ -12,7 +12,7 @@
 
 ### Research Papers
 
-1. Megha Agrawal, Kumar Duraisamy, Karthikeyan Sabari Ganesan, Shivam Gupta, _**Suyash Kandele**_, Sai Sandilya Konduru, Harika Chowdary Maddipati, K Raghavendra, Rajeev Anand Sahu, and Vishal Saraswat. _Secure Boot in Post-Quantum Era_. 
+1. Megha Agrawal, Kumar Duraisamy, Karthikeyan Sabari Ganesan, Shivam Gupta, _**Suyash Kandele**_, Sai Sandilya Konduru, Harika Chowdary Maddipati, K Raghavendra, Rajeev Anand Sahu, and Vishal Saraswat. _Secure Boot in Post-Quantum Era_. In _International Conference on Cryptology in India_ 2023 Dec 10 (pp. 223-239). Cham: Springer Nature Switzerland.
 
 2. 
 1. _**Suyash Kandele**_ and Souradyuti Paul. _Message-locked encryption with file update_. In Bart Preneel and Frederik Vercauteren, editors, _Applied Cryptography and Network Security - 16th International Conference, ACNS 2018, Leuven, Belgium, July 2-4, 2018, Proceedings_, volume 10892 of _Lecture Notes in Computer Science_, pages 678–695. Springer, 2018. \[The 43-page full version is on _IACR e-print archive_ at [https://eprint.iacr.org/2018/422.pdf](https://eprint.iacr.org/2018/422.pdf)\] [<i class="fa fa-video-camera"></i>](https://youtu.be/E9MFgo1SOrU?t=3192) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3960431097486177573)
