@@ -27,6 +27,13 @@ I am passionate about Secure Code Review (Software/Library/SDK), and Teaching an
 
 ### Awards and Honours
 
+1. Conferred the _Innovation Award 2023_ by [_Priyamvadha Vembar_](https://in.linkedin.com/in/priyamvadha-vembar-637428122) (Head, Cybersecurity.ONE section) and [_Berlin Jayasingh A M_](https://in.linkedin.com/in/berlin-jayasingh-a-m-6673903) (Head, HR Services for Cybersecurity.ONE section), BGSW (2023).
+
+1. Conferred the _Synergic Force Award_ by [_Arunkumar Vasanthakumary Ramachandran_](https://in.linkedin.com/in/arunkumarvr) (Head, Cyber Security Consulting & Security Capability Development department), BGSW (2023).
+
+1. Conferred the _Rockstar Award_ by [_Berlin Jayasingh A M_](https://in.linkedin.com/in/berlin-jayasingh-a-m-6673903) (Head, HR Services for Cybersecurity.ONE
+section), BGSW (2023).
+
 1. Awarded the _1st PhD_ degree given to a student of any six _3rd Generation IITs_. The news (including a feature story) has been published by many prominent media outlets – such as _Patrika_ ([Raipur](Raipur-Patrika-13-May-2020.jpg), [Bhilai-Durg](Bhilai-Durg-Patrika-13-May-2020.jpg)) and [_Haribhoomi_](Bhilai-Haribhoomi-12-May-2020.png) – in Chhattisgarh state (2020).
 
 1. Awarded the _1st PhD_ degree given to a student of _IIT Bhilai_ (2020) [<i class="fa fa-file"></i>](IIT_Bhilai_Main_Page.pdf).
