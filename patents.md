@@ -12,9 +12,17 @@
 
 ### Research Engineer -- Ceremorphic Technologies Pvt. Ltd.
 
-1. [**Look up table (LUT) based chiplet to chiplet secure communication**](https://patents.google.com/patent/US12041159B2/en). _**Suyash Kandele**_, Joydeep Kumar Devnath, Mohammed Sumair, Ananya Shrivastava, Govardhan Mattela. US12041159B2. Priority 2022-02-28. Filed 2022-02-28. Granted 2024-07-16. Published 2024-07-16.
+1. [**Look up table (LUT) based chiplet to chiplet secure communication**](https://patents.google.com/patent/US12041159B2/en).
 
-1. [**Look up table (lut) based encryption with tag-based verification**](https://patents.google.com/patent/US20230275761A1/en). _**Suyash Kandele**_, Joydeep Kumar Devnath, Mohammed Sumair, Ananya Shrivastava, Govardhan Mattela. US20230275761A1. Priority 2022-02-28. Filed 2022-02-28. Published 2023-08-31.
+_**Suyash Kandele**_, Joydeep Kumar Devnath, Mohammed Sumair, Ananya Shrivastava, Govardhan Mattela.
+
+US12041159B2.
+
+Priority 2022-02-28. Filed 2022-02-28. Granted 2024-07-16. Published 2024-07-16.
+
+1. [**Look up table (lut) based encryption with tag-based verification**](https://patents.google.com/patent/US20230275761A1/en).
+
+_**Suyash Kandele**_, Joydeep Kumar Devnath, Mohammed Sumair, Ananya Shrivastava, Govardhan Mattela. US20230275761A1. Priority 2022-02-28. Filed 2022-02-28. Published 2023-08-31.
 
 1. [**PRNG-based chiplet to chiplet secure communication using counter resynchronization**](https://patents.google.com/patent/US12081216B1/en). _**Suyash Kandele**_, Sumant Kumar Singh, Mohammed Sumair, Ananya Shrivastava, Joydeep Kumar Devnath, Govardhan Mattela. US12081216B1. Priority 2022-05-19. Filed 2022-05-19. Granted 2024-09-03. Published 2024-09-03.
 
