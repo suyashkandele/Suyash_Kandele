@@ -20,7 +20,7 @@
 
 1. [**Efficient Storage of Blockchain in Embedded Device**](https://patents.google.com/patent/US11902426B2/en).<br/>Ananya Shrivastava, Mohammed Sumair, Joydeep Kumar Devnath, _**Suyash Kandele**_, Govardhan Mattela.<br/>US11902426B2.<br/>Priority 2021-06-26. Filed 2021-06-26. Granted 2024-02-13. Published 2024-02-13.
 
-1. [**Device Authentication using Blockchain**](https://patents.google.com/patent/US12107966B2/en). Ananya Shrivastava, Mohammed Sumair, Joydeep Kumar Devnath, _**Suyash Kandele**_, Govardhan Mattela. US12107966B2. Priority 2021-06-26. Filed 2021-06-26. Granted 2024-10-01. Published 2024-10-01.
+1. [**Device Authentication using Blockchain**](https://patents.google.com/patent/US12107966B2/en).<br/>Ananya Shrivastava, Mohammed Sumair, Joydeep Kumar Devnath, _**Suyash Kandele**_, Govardhan Mattela.<br/>US12107966B2.<br/>Priority 2021-06-26. Filed 2021-06-26. Granted 2024-10-01. Published 2024-10-01.
 
 1. [**03 More Coming Soon**]().
 
