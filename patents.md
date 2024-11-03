@@ -6,9 +6,9 @@
 
 ## My Patents
 
-### Post-Doctoral Fellow -- International Institute of Information Technology (IIIT) Hyderabad
+### Cyber Security Specialist -- Bosch Global Software Technologies (BGSW) Pvt. Ltd.
 
-1. [**System and method for generating a table-driven mutable blockchain**](https://patents.google.com/patent/US20230129227A1/en).<br/>Prof. Kamalakar Karlapalem, _**Suyash Kandele**_.<br/>US20230129227A1.<br/>Priority 2021-10-21. Filed 2022-10-21. Published 2023-04-27.
+1. [**02 Coming Soon**]().
 
 ### Research Engineer -- Ceremorphic Technologies Pvt. Ltd.
 
@@ -24,8 +24,8 @@
 
 1. [**03 More Coming Soon**]().
 
-### Cyber Security Specialist -- Bosch Global Software Technologies (BGSW) Pvt. Ltd.
+### Post-Doctoral Fellow -- International Institute of Information Technology (IIIT) Hyderabad
 
-1. [**02 More Coming Soon**]().
+1. [**System and method for generating a table-driven mutable blockchain**](https://patents.google.com/patent/US20230129227A1/en).<br/>Prof. Kamalakar Karlapalem, _**Suyash Kandele**_.<br/>US20230129227A1.<br/>Priority 2021-10-21. Filed 2022-10-21. Published 2023-04-27.
 
 [<i class="fa fa-arrow-circle-left"></i> Homepage](index)
